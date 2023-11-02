@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # closet_store
+# closet_store
